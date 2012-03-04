@@ -1,0 +1,10 @@
+name: NarnaNoStarve
+version: 0.02
+main: uk.co.ProjectNarna.NarnaNoStarve.NarnaNoStarve
+permissions:
+    NarnaNoStarve.NoStarve:
+        description: Users food bar stays full
+        default: false
+    NarnaNoStarve.NoDamage:
+        description: Users take no damage from lack of food
+        default: false
